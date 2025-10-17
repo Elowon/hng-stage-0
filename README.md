@@ -29,7 +29,7 @@ Vanilla JavaScript (ES6)
 
 ⚙️ How to Run Locally
 1. Clone the repository-
- git clone https://github.com/<your-username>/hng-stage-0.git
+ git clone https://github.com/your-username/hng-stage-0.git
 
 2. Navigate into the project directory-
    cd hng-stage-0
