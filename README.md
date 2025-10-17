@@ -22,7 +22,7 @@ hng-stage-0/
 ├── app.js # JavaScript logic (time + avatar loading etc)
 └── README.md # Project documentation
 
-🧰 Technologies Used
+🧰 Technologies Used-
 HTML5
 CSS3 (Flexbox + Media Queries)
 Vanilla JavaScript (ES6)
