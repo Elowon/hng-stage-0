@@ -148,7 +148,6 @@ body {
 @media (max-width: 500px) {
   .profile-card {
     width: 95%;
-    padding: 0.5rem;
   }
 
   .interactive-counter {
@@ -221,5 +220,6 @@ body {
   .likes-dislikes div {
     min-width: 200px;
   }
+
 
 }
