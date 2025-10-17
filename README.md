@@ -15,7 +15,7 @@ Clean and modern layout using Flexbox.
 Ready for integration with automated UI tests.
 
 🗂️ Project Structure-
-hng-stage-0/
+profile-card/
 │
 ├── index.html # Main HTML page
 ├── index.css # All styling and responsive layouts
